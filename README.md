@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-   Im Yolxander a self motivated Developer than enjoys working with front-end technologies as much as the back-end ones.
+    Im Yolxander a self motivated Developer than enjoys working with front-end technologies as much as the back-end ones.
 
  😄 I like learning how to incorporate new technologies to my work and future projects. My favorite lenguages are Javascript and PHP so I spend most of the time practicing and working on projects that include frameworks that make use of these lenguages.
 
