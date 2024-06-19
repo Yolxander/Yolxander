@@ -1,24 +1,11 @@
 ### Hi there 👋
 
-   Im Yolxander a curious and passionate Developer than enjoys working with front-end technologies as much as the back-end ones.
+I'm Yolxander, a seasoned and passionate Developer with deep expertise in front-end and back-end technologies.
 
- 😄 I like learning how to incorporate new technologies to my work and future projects. My favorite lenguages are Javascript and PHP so I spend most of the time practicing and working on projects that include frameworks that make use of these lenguages.
+😄 I enjoy integrating new technologies into my work and future projects. My favorite languages are JavaScript and PHP, and I dedicate a significant amount of time to honing my skills and working on projects that leverage frameworks built on these languages.
 
-  ⚡Im a huge fan of MVC universe. MVC universe?! Im glad you asked. similarly to DC universe(from the commics) that has superheros like Batman and Wonderwoman, MVC has superframework like Laravel and Angular that have being saving and protecting the world with their special features. 
-  
-  🔭 When Im not coding or playing video games, Im trying a new cooking recipe or reading science books. Btw I recomend you reading "Thinking in Systems" by Donella Meadows, it helped me look at coding from a different angle. 
+⚡ I'm a huge fan of the MVC universe. MVC universe?! I'm glad you asked. Like the DC universe (from the comics) has superheroes like Batman and Wonder Woman, the MVC universe boasts super frameworks like Laravel and Angular, which have been revolutionizing and safeguarding the development world with their powerful features.
 
-<!--
-**Yolxander/Yolxander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 When I'm not coding or exploring the latest tech trends, I enjoy experimenting with new cooking recipes or diving into science books. By the way, I highly recommend reading "Thinking in Systems" by Donella Meadows; it has given me a unique coding and problem-solving perspective.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 So, whether I'm battling bugs or whipping up a culinary masterpiece, I'm always on a quest for knowledge and innovation. Let's connect and create something amazing together! 🚀
