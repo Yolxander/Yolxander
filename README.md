@@ -1,11 +1,41 @@
-### Hi there 👋
 
-I'm Yolxander, a seasoned and passionate Developer with deep expertise in front-end and back-end technologies.
+### 👋 Hey, I’m Yolxi
 
-😄 I enjoy integrating new technologies into my work and future projects. My favorite languages are JavaScript and PHP, and I dedicate a significant amount of time to honing my skills and working on projects that leverage frameworks built on these languages.
+🚀 **CTO & Founder @ AccentPoint**
+🎨 **Founder @ Sempre Studios**
 
-⚡ I'm a huge fan of the MVC universe. MVC universe?! I'm glad you asked. Like the DC universe (from the comics) has superheroes like Batman and Wonder Woman, the MVC universe boasts super frameworks like Laravel and Angular, which have been revolutionizing and safeguarding the development world with their powerful features.
+From **biomedical engineering ➝ software development**, I’m on a mission to use tech to solve small real-world problems that make people happier, more productive, and a little less stressed.
 
-🔭 When I'm not coding or exploring the latest tech trends, I enjoy experimenting with new cooking recipes or diving into science books. By the way, I highly recommend reading "Thinking in Systems" by Donella Meadows; it has given me a unique coding and problem-solving perspective.
+By day (9–5), I’m building and learning.
+By night (side hustle mode 🌙), I’m creating **software, websites, apps, and solutions** for friends, businesses, and anyone who needs something built.
 
-🌟 So, whether I'm battling bugs or whipping up a culinary masterpiece, I'm always on a quest for knowledge and innovation. Let's connect and create something amazing together! 🚀
+I love turning ideas into products — whether that’s:
+
+* 🤖 AI-powered tools
+* 🌐 Web apps & SaaS platforms
+* 🧠 Automation & workflows
+* 🎯 Landing pages that actually convert
+* 📱 Bots, dashboards, and experiments
+
+I’m especially passionate about building things that:
+
+✨ help people communicate better
+✨ save time
+✨ remove friction
+✨ turn “this is annoying” into “wow, that’s nice”
+
+Right now I’m focused on:
+
+* Building **AccentPoint** (AI for accent improvement & voice confidence)
+* Growing **Sempre Studios** (modern web + product solutions)
+* Exploring AI + Laravel + Next.js + automation
+* Shipping MVPs fast and learning faster
+
+---
+
+💡 *From side hustles to startups — always building, always improving.*
+
+📍 Sempre Studios: *(add your site here)*
+📍 AccentPoint: *(add your GitHub/org link here)*
+
+
