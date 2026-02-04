@@ -35,8 +35,8 @@ Right now I’m focused on:
 
 💡 *From side hustles to startups — always building, always improving.*
 
-📍 Sempre Studios: [*(add your site here)*](https://semprestudios.com/)
-📍 AccentPoint: *[(add your GitHub/org link here)](https://github.com/AccentPoint)*
+📍 [*Sempre Studios*](https://semprestudios.com/)
+📍 [*AccentPoint*)](https://github.com/AccentPoint)*
 
 
 
