@@ -1,5 +1,5 @@
 
-### 👋 Hey, I’m Yolxander
+### 👋 Hey, I’m [*Yolxander*](https://yolxanderjaca.com)
 
 From **biomedical engineering ➝ software development**, I’m on a mission to use tech to solve small real-world problems that make people happier, more productive, and a little less stressed.
 
@@ -23,17 +23,10 @@ I’m especially passionate about building things that:
 
 Right now I’m focused on:
 
-* Building **AccentPoint** (AI for accent improvement & voice confidence)
 * Growing **Sempre Studios** (modern web + product solutions)
 * Exploring AI + Laravel + Next.js + automation
 * Shipping MVPs fast and learning faster
 
----
-
-💡 *From side hustles to startups — always building, always improving.*
-
-📍 [*Sempre Studios*](https://semprestudios.com/)
-📍 [*AccentPoint*)](https://github.com/AccentPoint)*
 
 
 
