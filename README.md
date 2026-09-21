@@ -1,8 +1,5 @@
 
-### 👋 Hey, I’m Yolxi
-
-🚀 **CTO & Founder @ AccentPoint**
-🎨 **Founder @ Sempre Studios**
+### 👋 Hey, I’m Yolxander
 
 From **biomedical engineering ➝ software development**, I’m on a mission to use tech to solve small real-world problems that make people happier, more productive, and a little less stressed.
 
